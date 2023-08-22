@@ -1,6 +1,6 @@
 {
   "name": "nodejs-starter-template",
-  "version": "1.0.0",
+  "version": "1.1.0-pre-release",
   "description": "You can use this template when you're starting a new project. It contains general concepts, you can customize it according to your needs.",
   "main": "app.js",
   "dependencies": {
